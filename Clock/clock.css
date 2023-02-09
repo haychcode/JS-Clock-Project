@@ -1,0 +1,15 @@
+* {
+  background-color: black;
+  font-family: "Courier New", Courier, monospace;
+}
+
+#clock {
+  font-size: 175px;
+  color: aqua;
+  width: 900px;
+  margin: 200px;
+  padding-right: 165px;
+  text-align: center;
+  border: 2px solid aqua;
+  border-radius: 20px;
+}
